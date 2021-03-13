@@ -75,6 +75,10 @@ a {
 	line-height: 5px;
 	text-decoration: none !important;
 }
+/* Sign in section */
+.sign-in-section {
+	margin: 5% 0%;
+}
 .heading-section {
 	text-align: center;
 }
